@@ -1,0 +1,31 @@
+FEATURES:
+---------------------------------------------------------------------------------------------
+
+enrollee_id............: ID único para o candidato
+
+city...................: Código da cidade
+
+city_development_index : Índice de desenvolvimento da cidade (escalado)
+
+gender.................: Gênero do candidato
+
+relevent_experience....: Experiência relevante do candidato
+
+enrolled_university....: Tipo de curso universitário matriculado, se houver
+
+education_level........: Nível de educação do candidato
+
+major_discipline.......: Principal disciplina de educação do candidato
+
+experience.............: Experiência total do candidato em anos
+
+company_size...........: Número de funcionários na empresa do empregador atual
+
+company_type...........: Tipo de empregador atual
+
+lastnewjob.............: Diferença em anos entre o emprego anterior e o atual
+
+training_hours.........: horas de treinamento concluídas
+
+target.................: 0 – Não está procurando mudança de emprego, 1 – Procurando mudança de emprego
+----------------------------------------------------------------------------------------------
